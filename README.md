@@ -46,7 +46,17 @@ Yazılım, üç katmanlı modüler bir mimari ile geliştirilmektedir:
 * **2. Aşama Test (Gerçek Ortam Doğrulaması):** **Ankara Üniversitesi Açık Ders Malzemeleri (ADM)** arşivinden seçilen **30 adet gerçek ders sunusu** üzerinde denetim başarımı ve ÜYZ önerilerinin kullanıcı onay oranları ölçülür.
 
 ---
+Not: Bu depodaki kodlar, TÜBİTAK 2209-A projesi kapsamında geliştirilen ilk çalışma prototipini (v0.1) yansıtmaktadır; araştırma takvimi boyunca güncellenecektir.
 
+👤 Proje Ekibi ve Kurum
+Proje Yürütücüsü: Semih Can Yıldız
+
+Kurum: Ankara Üniversitesi — Eğitim Bilimleri Fakültesi, Bilgisayar ve Öğretim Teknolojileri Eğitimi (BÖTE) Bölümü
+
+Destek Programı: TÜBİTAK 2209-A (2026 / 1. Dönem)
+
+📄 Lisans ve Etik İlkeler
+Bu proje TÜBİTAK Üretken Yapay Zekâ Rehberi (2025) sorumlu yapay zekâ ve şeffaflık ilkelerine uygun olarak geliştirilmektedir. Sistem yalnızca sentetik ve kamuya açık ders materyalleri üzerinde test edilmekte olup hiçbir kişisel veri (KVKK kapsamındaki veri) dış servislere aktarılmamaktadır.
 ## 📂 Depo Yapısı
 
 ```text
